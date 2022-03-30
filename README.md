@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello, and welcome to my GitHub! 👋
+I get excited about building tools and products that enable people to achieve their goals. 
 
-<!--
-**Joan-Buck/Joan-Buck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is some more info about me in case you're interested:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joan-Buck&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-Here are some ideas to get you started:
+## Techonologies I build with:
+JavaScript | Python | React / Redux | Flask | Express | SQLAlchemy | Sequelize | PostgreSQL | Git | AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Projects
+[What The Truck] (https://github.com/Joan-Buck/capstone-project)
+
+[Moodify] (https://github.com/sbyri97/moodify_gp10)
+
+[SnowBnB] (https://github.com/Joan-Buck/SnowBnB)
+
