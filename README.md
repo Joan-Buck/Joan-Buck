@@ -8,9 +8,9 @@ Here is some more info about me in case you're interested:
 JavaScript | Python | React / Redux | Flask | Express | SQLAlchemy | Sequelize | PostgreSQL | Git | AWS
 
 ## Recent Projects
-[What The Truck] (https://github.com/Joan-Buck/capstone-project)
+What The Truck - a web app for browsing, reviewing, and rating food trucks in your area.
 
-[Moodify] (https://github.com/sbyri97/moodify_gp10)
+Moodify - a music streaming web app inspired by Spotify.
 
-[SnowBnB] (https://github.com/Joan-Buck/SnowBnB)
+SnowBnB - a vacation planning website for people interested in hitting the slopes.
 
